@@ -1,0 +1,110 @@
+<%- include("partials/LoginH"); -%>
+
+<div class="b-main-div">
+
+            
+    <div class="b-text-div">
+       <h1 class="b-h1-text h1text">Simple. Smart.</h1><br>
+       <h1 class="b-h1-text">Secure Wifi</h1>
+       <p class="b-p">
+        Excel Broadband helps businesses solve their WiFi challenges
+         by providing expert engineering services, 
+         innovative software, and WiFi subscriptions.
+          We fix WiFi problems, enable WiFi to be smarter,
+           and make it easier to deploy than ever before.
+       </p>
+       <img class="graph" src="\images\bar-graph.svg" alt="">
+    </div>
+
+    <div>
+        <h1 class="b-h-line b-h1">WiFi solutions that transform</h1>
+        <p  class="b-h-line b-para">With several services and solutions available, we provide the <br>
+            customized help your business needs.</p>
+    </div>
+     
+
+</div>
+
+<div class="b-main-div2">
+    <div class="b-div1">
+        <img class="b-logo" src="\images\icon-services.svg" alt="">
+        <h1>Service</h1>
+        <p class="b-p2"> your wireless network are ready 
+            to perform with professional
+            WiFi engineering services from the
+            experts you can trust.
+        </p>
+        
+    </div>
+    <div class="b-div2">
+        <img class="b-logo" src="\images\icon-software-tools.svg" alt="">
+        <h1>Software</h1>
+        <p class="b-p2"> A single cloud-based platform with
+             innovative tools to power a more
+              intelligent and integrated user experience.
+        </p>
+    </div>
+    <div class="b-div3">
+        <img class="b-logo" src="\images\icon-manage-wifi.svg" alt="">
+        <h1>Managed WiFi </h1>
+        <p class="b-p2">Hardware + Software + Managed Network 
+            Services. Everything you need in one
+             monthly subscription.
+        </p>
+    </div>
+</div>
+
+<div class="b-div-last">
+    
+        <h1 class="b-h-line b-h1">How Excel Broadband works for you</h1>
+        <p  class="b-h-line b-para">Expert WiFi solutions to quickly and easily<br>
+             boost your business performance.</p>
+   
+</div>
+
+<div class="b-form">
+    <a id="b-partner"></a>
+    <h1 class="b-form-h1">Want to Partner with us.</h1>
+
+    <div class="b-form-1" >
+        
+        <form action="/lbusiness" method="POST" id="form" name="partner-form" >
+            <h1 class="b-partner-form">Name :</h1>
+            <input class="b-input" type="text" name="name" id="name"> <br>
+            <h1 class="b-partner-form">Mobile no :</h1>
+            <input class="b-input" type="text" name="mobile" id="mobile"><br>
+            <h1 class="b-partner-form">Email id :</h1>
+            <input class="b-input" type="text" name="email" id="email"><br>
+            <h1 class="b-partner-form">Company name :</h1>
+            <input class="b-input" type="text" name="company" id="company"><br>
+            <h1 class="b-partner-form">Address :</h1>
+            <textarea name="address" id="address" cols="26" rows="5"></textarea> <br>
+            <button value="submit" class="b-btn"  onclick="empty()">
+                Submit
+            </button>
+
+            <script type="text/javascript">
+                function empty()
+                {
+                  var name;
+                  var mobile;
+                  var email;
+                  var company;
+                  var address;
+                  name = document.getElementById("name").value;
+                  mobile = document.getElementById("mobile").value;
+                  email = document.getElementById("email").value;
+                  company = document.getElementById("company").value;
+                  address = document.getElementById("address").value;
+                  if (name == "" || mobile == "" || email == "" || company == "" || address == "") 
+                   { 
+                      alert("Fill the all field.");
+                   };
+                }
+            </script>
+        </form>
+    </div>
+    
+</div>
+
+<%- include("partials/lfooter"); -%>

@@ -1,0 +1,20 @@
+<%- include("partials/loginheader"); -%>
+
+        <form action="/login" method="POST">
+            
+            <div class="signup">
+                <h1 class="text">Login in</h1>
+                <p class="newuser">New user? </p><a href="signup">Create an account</a>
+                <p>Email address</p>
+                <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required>
+                <p>Password</p>
+                <input type="password" name="password" required> <br>
+                <button value="submit" class="lbtn" >
+                    Login
+                 </button>
+             </div>
+        </form>
+        <img src="images/section3.png" alt="">
+
+<%- include("partials/loginfooter"); -%>
+    

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="\css\signup.css">
+        <link rel="shortcut icon" type="image/jpg" href="\images\favi.png"/>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    </head>
+    <body>
+
+        <form action="/signup" method="POST" id="form">
+           
+            <div class="signup">
+                <h1 class="text">Create an account</h1>
+                <p class="newuser">Already have an account? </p><a href="login">Login</a>
+                <p>Email address</p>
+                <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required>
+                <p class="ftext" >First name</p>
+                <p class="ltext">Last name</p>
+                <input type="text" class="finput" name="fname" required > 
+                <input type="text" class="finput" name="lname"  required> 
+
+                <p class="ftext" >Password</p>
+                <p class="ltext">Mobile No</p>
+                <input type="password" class="finput" name="password" required > 
+                <input type="text" class="finput" name="mobile"  required> 
+     
+                <!-- <p>password</p>
+                <input type="password" name="password" required> -->
+                 <p>By create an account you agree to our <a href="terms">Terms & Conditions</a></p>
+     
+                <br>
+                <button value="submit" class="lbtn">
+                   Create account
+                </button> 
+             </div>
+        </form>
+        
+        <img src="images/section3.png" alt="">
+
+    </body>
+</html>
+
+
+
+ <!-- required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" oninvalid="setCustomValidity('Please enter a valid Email ID')" -->
+
+<!-- pattern="[a-zA-Z]*" oninvalid="setCustomValidity('Only alphabets are allowed. ')"
+// pattern="[a-zA-Z]*" oninvalid="setCustomValidity('Only alphabets are allowed. ')" -->
+<!-- 
+// pattern="[a-zA-Z]*" oninvalid="setCustomValidity('Only alphabets are allowed. ')"
+
+// pattern="[a-zA-Z]*" oninvalid="setCustomValidity('Only alphabets are allowed. ')" -->

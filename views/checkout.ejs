@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="\css\checkout.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <% if(cart && cart.items.length > 0) { %>
+        <form action="/cart/update" method="post">
+            <table class="cart-table table table-bordered table-striped">
+                <tbody>
+                    <% cart.items.forEach(function(product) { %>
+                    <tr>
+                        <td>
+                            <a href="/cart/remove/<%= product.id%>/<%= nonce %>">
+                                <i class="fa fa-remove text-danger"></i>
+                            </a>
+                        </td>
+                        <td><%= product.title %></td>
+                        <td>
+                            <%= product.formattedPrice %>
+                        </td>
+                        <td>
+                            <input type="hidden" name="product_id[]" value="<%= product.id%>">
+                            
+                        </td>
+                    </tr>
+                    <% }); %>
+                    <tr class="info">
+                        <td colspan="5" class="text-right">
+                            Total:
+                            <%= cart.formattedTotals %>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="clearfix cart-footer">
+                <input type="hidden" name="nonce" value="<%= nonce %>">
+                <button type="submit" class="btn btn-default pull-left"><i class="fa fa-refresh"></i> Update cart</button>
+                <a href="/cart/empty/<%= nonce %>" class="btn btn-default pull-left"><i class="fa fa-remove"></i> Empty cart</a>
+                <a href="/checkout" class="btn btn-default pull-right">Checkout <i class="fa fa-angle-right"></i></a>
+            </div>
+        </form>
+        <% } else { %>
+        <p class="alert alert-info">Sorry, no products in your cart.</p>
+        <% } %>
+
+</body>
+</html>
+
+

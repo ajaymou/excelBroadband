@@ -1,0 +1,26 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "ty project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ajay mourya",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.12.2",
+    "nodemailer": "^6.5.0",
+    "show-toast": "^1.1.4",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^10.15.7"
+  }
+}

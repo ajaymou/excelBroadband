@@ -1,0 +1,160 @@
+.myaccount-main-div {
+    border-radius: 20px;
+    width: 80%;
+    margin: 20px auto;
+    height: 700px;
+    padding: 2% 5%;
+    background-color: #F7FAFC;
+
+    font-family: 'Roboto', sans-serif;
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
+}
+
+.h1-profile {
+  font-size: 25px;
+}
+
+.profile-pic {
+    max-width: 110px;
+    max-height: auto;
+    display: block;
+}
+
+.file-upload {
+    display: none;
+}
+.circle {
+    margin-top: 100px;
+    margin-left: 0px;
+    background-color: cornflowerblue;
+    border-radius: 1000px !important;
+    overflow: hidden;
+    width: 128px;
+    height: 128px;
+    border: 8px solid rgba(255, 255, 255, 0.7);
+    position: absolute;
+    top: 72px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.p-image {
+  font-size: 30px;
+  margin-top: 150px;
+  margin-left: 0px;
+  color: #666666;
+  transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+}
+.p-image:hover {
+  transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+}
+.upload-button {
+  font-size: 1.8em;
+}
+
+.upload-button:hover {
+  transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+  color: #999;
+}
+
+.box {
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+}
+
+label {
+    display: inline;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.info-div {
+    width: 550px;
+    height: 200px;
+    /* background-color: red; */
+    margin-top: -230px;
+    margin-left: 250px;
+}
+
+.editbtn {
+  font-size: 20px;
+  margin-top: -20px;
+  float: right;
+  padding: 10px 20px;
+  background-color: #117DFF;
+  border-radius: 10px;
+}
+
+.update-area {
+  padding: 80px 60px;
+  width: 60%;
+  height: 500px;
+  background-color: #F7FAFC;
+
+    font-family: 'Roboto', sans-serif;
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
+  margin: 20px auto;
+  position: relative;
+  border-radius: 25px;
+}
+
+.edit-h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 300px;
+}
+
+
+.lb {
+  font-size: 20px;
+  color: gray;
+}
+
+table {
+  margin-top: 0px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}   
+
+.h3-plan {
+  font-size: 25px;
+  margin-top: 60px;
+}
+
+.active {
+  width: 20px;
+  height: auto;
+}

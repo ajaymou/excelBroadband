@@ -1,0 +1,21 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" width="218" height="87" viewBox="0 0 218 87">
+  <text id="EXCEL" transform="translate(0 60)" fill="#fff" font-size="56" font-family="SegoeUI-BoldItalic, Segoe UI" font-weight="700" font-style="italic"><tspan x="0" y="0">EXCEL</tspan></text>
+  <text id="broadband" transform="translate(1 82)" fill="#fff" font-size="20" font-family="SegoeUI-BoldItalic, Segoe UI" font-weight="700" font-style="italic"><tspan x="0" y="0">broadband</tspan></text>
+  <g id="wifi" transform="translate(169.544 21.544)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M1.01,0A1.01,1.01,0,0,0,0,1.01V9.085A1.01,1.01,0,0,0,1.01,10.1,37.394,37.394,0,0,1,38.361,47.447a1.01,1.01,0,0,0,1.01,1.01h8.076a1.01,1.01,0,0,0,1.01-1.01A47.5,47.5,0,0,0,1.01,0Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(0 16.152)">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_2" data-name="Path 2" d="M1.01,170.667A1.01,1.01,0,0,0,0,171.676v8.076a1.01,1.01,0,0,0,1.01,1.01,21.223,21.223,0,0,1,21.2,21.2,1.01,1.01,0,0,0,1.01,1.01h8.076a1.01,1.01,0,0,0,1.01-1.01A31.329,31.329,0,0,0,1.01,170.667Z" transform="translate(0 -170.667)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(0 34.323)">
+      <g id="Group_5" data-name="Group 5">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="7.067" cy="7.067" r="7.067" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

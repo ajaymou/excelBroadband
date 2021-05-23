@@ -1,0 +1,22 @@
+<%- include("partials/LoginH"); -%>
+
+
+<h1 class="edit-h1">Update Card Information.</h1>
+<div class="update-area">
+    
+    <form action="/editcard" method="POST" id="form" name="edit-info" >
+        <h1 class="query-form edit-text">Card No :</h1>
+        <input class="q-input" type="text" name="cardno" id="cardno" value=<%= cardno %> ><br>
+        <h1 class="query-form edit-text">Expiry Date :</h1>
+        <input class="q-input" type="text" name="expirydate" id="expirydate" value=<%= expirydate %>><br>
+        <h1 class="query-form edit-text">CVV :</h1>
+        <input class="q-input" type="text" name="cvv" id="cvv" value=<%= cvv %> > <br>    
+        <button value="submit" class="b-btn">
+            Update
+        </button>
+    </form>
+
+</div>
+
+
+<%- include("partials/lfooter"); -%>

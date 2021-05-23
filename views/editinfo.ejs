@@ -1,0 +1,27 @@
+<%- include("partials/LoginH"); -%>
+
+
+<h1 class="edit-h1">Update Your Information.</h1>
+<div class="update-area">
+    
+    <form action="/editinfo" method="POST" id="form" name="edit-info" >
+        <h1 class="query-form edit-text">first name :</h1>
+        <input class="q-input" type="text" name="fname" id="name" value=<%= fname %> ><br>
+        <h1 class="query-form edit-text">last name :</h1>
+        <input class="q-input" type="text" name="lname" id="mobile" value=<%= lname %>><br>
+        <h1 class="query-form edit-text">Email id :</h1>
+        <input class="q-input" type="text" name="email" id="email" value=<%= email %>><br>
+        <h1 class="query-form edit-text">Contact :</h1>
+        <input class="q-input" type="text" name="mobile" id="email" value=<%= mobile %>><br>
+        <h1 class="query-form edit-text">Password :</h1>
+        <input class="q-input" type="text" name="password" id="email" value=<%= password %>><br>
+        
+        <button value="submit" class="b-btn">
+            Update
+        </button>
+    </form>
+
+</div>
+
+
+<%- include("partials/lfooter"); -%>

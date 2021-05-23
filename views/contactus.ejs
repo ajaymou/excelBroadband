@@ -1,0 +1,61 @@
+<%- include("partials/header"); -%>
+
+
+<div class="main-contact-div">
+    <h1 class="main-text-h1">Contact US</h1>
+    <img class="about-logo" src="\images\telephone.png" alt="">
+    <img class="about-logo-2" src="\images\gmail.png" alt="">
+    <img class="about-logo-2" src="\images\placeholder.png" alt="">
+    <p class="about-p-1">Customer Care<br>
+        1860 3000 3434</p>
+    
+    <p class="about-p-2"><br>Technical Hotline<br>3945 3434<br>
+            Prefix your local STD code as <br> per your city while calling.<br>(Example: 022-39453434 for Mumbai)<br>
+            Local call charges applicable.</p>
+    
+    <p class="about-p-3">Customer Care (E-mail)<br>
+        broadband.excel17@gmail.com</p>
+   
+</div>
+
+<div class="query-div">
+    <h1 class="main-text-h1">Any Query</h1>
+
+    <div class="query-area">
+        <form action="/contactus" method="POST" id="form" name="contact-form" >
+            <h1 class="query-form">Name :</h1>
+            <input class="q-input" type="text" name="name" id="name"> <br>
+            <h1 class="query-form">Mobile no :</h1>
+            <input class="q-input" type="text" name="mobile" id="mobile"><br>
+            <h1 class="query-form">Email id :</h1>
+            <input class="q-input" type="text" name="email" id="email"><br>
+            <h1 class="query-form">Query :</h1>
+            <textarea name="query" id="query" cols="28" rows="5" class="q-textarea"></textarea> <br>
+            <button value="submit" class="b-btn" onclick="empty()">
+                Submit
+            </button>
+
+            <script type="text/javascript">
+                function empty()
+                {
+                  var name;
+                  var mobile;
+                  var email;
+                  var query;
+                  name = document.getElementById("name").value;
+                  mobile = document.getElementById("mobile").value;
+                  email = document.getElementById("email").value;
+                  query = document.getElementById("query").value;
+                  if (name == "" || mobile == "" || email == "" || query == "") 
+                   { 
+                      alert("Fill the all field.");
+                   };
+                }
+            </script>
+        </form>
+    </div>
+</div>
+    
+
+
+<%- include("partials/footer"); -%>

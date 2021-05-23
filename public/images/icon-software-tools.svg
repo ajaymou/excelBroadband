@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="172px" height="146px" viewBox="0 0 172 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="90.5126753 73.1453146 0.0481430446 73.1453146 0.0481430446 0.49028619 108.877684 0.49028619 108.877684 51.5927594"></polyline>
+        <linearGradient x1="87.163106%" y1="49.9999768%" x2="-24.9446537%" y2="49.9999768%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DBE2E9" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="0 119.88189 170.258308 119.88189 170.258308 0.0530727116 0 0.0530727116"></polygon>
+        <polygon id="path-6" points="0.342628421 0.382586031 0.342628421 73.0376144 90.8077859 73.0376144 109.172794 51.4844331 109.172794 0.382586031"></polygon>
+        <linearGradient x1="87.1627678%" y1="49.9997032%" x2="-24.9443479%" y2="49.9997032%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DBE2E9" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-9" points="0 119.88189 170.258308 119.88189 170.258308 0.0530727116 0 0.0530727116"></polygon>
+    </defs>
+    <g id="UI-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Securedge-Home" transform="translate(-714.000000, -1253.000000)">
+            <g id="Feature" transform="translate(0.000000, 48.000000)">
+                <g id="2" transform="translate(595.000000, 1143.000000)">
+                    <g id="Icon" transform="translate(120.000000, 63.000000)">
+                        <g id="Group-3" transform="translate(0.951444, 5.713908)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <polyline id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)" points="90.5126753 73.1453146 0.0481430446 73.1453146 0.0481430446 0.49028619 108.877684 0.49028619 108.877684 51.5927594"></polyline>
+                        </g>
+                        <polygon id="Fill-4" fill="#FFFFFF" points="5.70866142 0.00524693145 5.70866142 72.3149582 91.165581 72.3149582 115.124672 57.0648014 115.124672 0.00524693145"></polygon>
+                        <g id="Group-54" transform="translate(0.000000, 0.005247)">
+                            <polyline id="Stroke-5" stroke="#575C6B" stroke-width="1.5" stroke-linecap="round" points="115.645664 72.9496284 6.14800798 72.9696088 6.14800798 0.521611097 115.134739 0.521611097 115.645664 72.9496284"></polyline>
+                            <path d="M11.5991916,6.73255444 C11.5991916,5.83031834 12.3330205,5.09791492 13.23841,5.09791492 C14.1437995,5.09791492 14.8782544,5.83031834 14.8782544,6.73255444 C14.8782544,7.63541492 14.1437995,8.36781834 13.23841,8.36781834 C12.3330205,8.36781834 11.5991916,7.63541492 11.5991916,6.73255444" id="Fill-7" fill="#575C6B"></path>
+                            <path d="M17.4717007,6.73255444 C17.4717007,5.83031834 18.2061557,5.09791492 19.1115452,5.09791492 C20.0169347,5.09791492 20.7507635,5.83031834 20.7507635,6.73255444 C20.7507635,7.63541492 20.0169347,8.36781834 19.1115452,8.36781834 C18.2061557,8.36781834 17.4717007,7.63541492 17.4717007,6.73255444" id="Fill-9" fill="#575C6B"></path>
+                            <path d="M23.3447107,6.73255444 C23.3447107,5.83031834 24.0785396,5.09791492 24.9839291,5.09791492 C25.8893186,5.09791492 26.6237735,5.83031834 26.6237735,6.73255444 C26.6237735,7.63541492 25.8893186,8.36781834 24.9839291,8.36781834 C24.0785396,8.36781834 23.3447107,7.63541492 23.3447107,6.73255444" id="Fill-11" fill="#575C6B"></path>
+                            <path d="M108.728827,8.69349748 L31.9285045,8.69349748 C30.9323256,8.69349748 30.1252391,7.88866542 30.1252391,6.89589352 C30.1252391,5.90249723 30.9323256,5.09766517 31.9285045,5.09766517 L108.728827,5.09766517 C109.725005,5.09766517 110.532092,5.90249723 110.532092,6.89589352 C110.532092,7.88866542 109.725005,8.69349748 108.728827,8.69349748" id="Fill-13" fill="#DAE1E9"></path>
+                            <path d="M60.3294336,70.6441499 L13.8778178,70.6441499 C12.619915,70.6441499 11.5993168,69.6264026 11.5993168,68.3707646 L11.5993168,17.5433409 C11.5993168,16.287703 12.619915,15.2699557 13.8778178,15.2699557 L60.3294336,15.2699557 C61.5879626,15.2699557 62.6085607,16.287703 62.6085607,17.5433409 L62.6085607,68.3707646 C62.6085607,69.6264026 61.5879626,70.6441499 60.3294336,70.6441499" id="Fill-21" fill="#FFFFFF"></path>
+                            <text id="Overall" font-family="Helvetica-Bold, Helvetica" font-size="4.3685" font-weight="bold" fill="#000000">
+                                <tspan x="20.2184872" y="23.1190648">Ove</tspan>
+                                <tspan x="20.2184872" y="28.1190648">rall</tspan>
+                            </text>
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <g id="Clip-25"></g>
+                            <polygon id="Fill-24" fill="#28CC8B" mask="url(#mask-5)" points="20.6004288 30.8733329 55.8667901 30.8733329 55.8667901 28.7872632 20.6004288 28.7872632"></polygon>
+                            <polygon id="Fill-26" fill="#28CC8B" mask="url(#mask-5)" points="20.6004288 36.9098856 45.9275418 36.9098856 45.9275418 34.8231914 20.6004288 34.8231914"></polygon>
+                            <polygon id="Fill-27" fill="#28CC8B" mask="url(#mask-5)" points="20.5998653 42.9462509 20.6004914 40.8595568 42.491382 40.8595568 42.491382 42.9462509"></polygon>
+                            <polygon id="Fill-28" fill="#28CC8B" mask="url(#mask-5)" points="20.5998653 48.9821792 20.5998653 46.8954851 45.9276044 46.8961094 45.9276044 48.9821792"></polygon>
+                            <polygon id="Fill-29" fill="#28CC8B" mask="url(#mask-5)" points="20.5998027 55.0189192 49.4808512 55.0189192 49.4808512 52.932225 20.5998027 52.932225"></polygon>
+                            <polygon id="Fill-30" fill="#FF8300" mask="url(#mask-5)" points="20.6004288 30.8733329 50.2992081 30.8733329 50.2992081 28.7872632 20.6004288 28.7872632"></polygon>
+                            <polygon id="Fill-31" fill="#008DFF" mask="url(#mask-5)" points="20.6004288 36.9111344 34.1205364 36.9111344 34.1205364 34.8244402 20.6004288 34.8244402"></polygon>
+                            <g id="Group-34" mask="url(#mask-5)">
+                                <g transform="translate(20.036282, 63.687254)">
+                                    <line x1="0.563583051" y1="0.468776693" x2="6.95014801" y2="0.468776693" id="Fill-32" stroke="none" fill="#000000" fill-rule="evenodd"></line>
+                                    <line x1="0.563583051" y1="0.468776693" x2="6.95014801" y2="0.468776693" id="Stroke-33" stroke="#FFFFFF" stroke-width="2.184" fill="none" stroke-linecap="round" stroke-linejoin="round"></line>
+                                </g>
+                            </g>
+                            <text id="4.512" mask="url(#mask-5)" font-family="Helvetica-Bold, Helvetica" font-size="4.3685" font-weight="bold" fill="#000000">
+                                <tspan x="20.2710824" y="62.1358121">4.5</tspan>
+                                <tspan x="20.2710824" y="67.1358121">12</tspan>
+                            </text>
+                            <text id="5.623" mask="url(#mask-5)" font-family="Helvetica-Bold, Helvetica" font-size="4.3685" font-weight="bold" fill="#000000">
+                                <tspan x="35.8119117" y="62.1358121">5.6</tspan>
+                                <tspan x="35.8119117" y="67.1358121">23</tspan>
+                            </text>
+                            <text id="9.412" mask="url(#mask-5)" font-family="Helvetica-Bold, Helvetica" font-size="4.3685" font-weight="bold" fill="#000000">
+                                <tspan x="51.3527409" y="62.1358121">9.4</tspan>
+                                <tspan x="51.3527409" y="67.1358121">12</tspan>
+                            </text>
+                            <g id="Group-37" mask="url(#mask-5)">
+                                <g transform="translate(35.689628, 63.687254)">
+                                    <line x1="0.415627629" y1="0.468776693" x2="6.80156646" y2="0.468776693" id="Fill-35" stroke="none" fill="#000000" fill-rule="evenodd"></line>
+                                    <line x1="0.415627629" y1="0.468776693" x2="6.80156646" y2="0.468776693" id="Stroke-36" stroke="#FFFFFF" stroke-width="2.184" fill="none" stroke-linecap="round" stroke-linejoin="round"></line>
+                                </g>
+                            </g>
+                            <g id="Group-40" mask="url(#mask-5)">
+                                <g transform="translate(51.342973, 63.687254)">
+                                    <line x1="0.267046074" y1="0.468776693" x2="6.65361103" y2="0.468776693" id="Fill-38" stroke="none" fill="#000000" fill-rule="evenodd"></line>
+                                    <line x1="0.267046074" y1="0.468776693" x2="6.65361103" y2="0.468776693" id="Stroke-39" stroke="#FFFFFF" stroke-width="2.184" fill="none" stroke-linecap="round" stroke-linejoin="round"></line>
+                                </g>
+                            </g>
+                            <path d="M108.28615,65.7185651 L66.5806285,65.7185651 C65.4498308,65.7185651 64.533797,64.8050901 64.533797,63.6774511 L64.533797,18.0424117 C64.533797,16.9147727 65.4498308,16.0012977 66.5806285,16.0012977 L108.28615,16.0012977 C109.416948,16.0012977 110.332981,16.9147727 110.332981,18.0424117 L110.332981,63.6774511 C110.332981,64.8050901 109.416948,65.7185651 108.28615,65.7185651" id="Fill-41" fill="#FFFFFF" mask="url(#mask-5)"></path>
+                            <text id="Form-Submit" mask="url(#mask-5)" font-family="Helvetica-Bold, Helvetica" font-size="3.9223" font-weight="bold" fill="#000000">
+                                <tspan x="68.2914139" y="22.7165863">Form </tspan>
+                                <tspan x="68.2914139" y="27.7165863">Submit</tspan>
+                            </text>
+                            <line x1="70.6447379" y1="60.5466606" x2="76.3788714" y2="60.5466606" id="Stroke-42" stroke="#FFFFFF" stroke-width="1.961" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="71.6224458" y1="49.4839973" x2="73.5778617" y2="49.4839973" id="Stroke-43" stroke="#FFFFFF" stroke-width="0.654" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="77.7333867" y1="48.5089579" x2="77.7333867" y2="50.4589118" id="Stroke-44" stroke="#FFFFFF" stroke-width="0.654" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="80.540595" y1="49.4839973" x2="82.496011" y2="49.4839973" id="Stroke-45" stroke="#FFFFFF" stroke-width="0.654" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="86.6509098" y1="48.5089579" x2="86.6509098" y2="50.4589118" id="Stroke-46" stroke="#FFFFFF" stroke-width="0.654" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="89.4581181" y1="49.4839973" x2="91.413534" y2="49.4839973" id="Stroke-47" stroke="#FFFFFF" stroke-width="0.654" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="95.5689964" y1="48.5089579" x2="95.5689964" y2="50.4589118" id="Stroke-48" stroke="#FFFFFF" stroke-width="0.654" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="98.3762047" y1="49.4839973" x2="100.330995" y2="49.4839973" id="Stroke-49" stroke="#FFFFFF" stroke-width="0.654" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="104.486519" y1="48.5089579" x2="104.486519" y2="50.4589118" id="Stroke-50" stroke="#FFFFFF" stroke-width="0.654" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <text id="3.512" mask="url(#mask-5)" font-family="Helvetica-Bold, Helvetica" font-size="3.9223" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="70.3489522" y="59.0565334">3.5</tspan>
+                                <tspan x="70.3489522" y="64.0565334">12</tspan>
+                            </text>
+                            <text id="6.623" mask="url(#mask-5)" font-family="Helvetica-Bold, Helvetica" font-size="3.9223" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="84.302407" y="59.0565334">6.6</tspan>
+                                <tspan x="84.302407" y="64.0565334">23</tspan>
+                            </text>
+                            <text id="7.412" mask="url(#mask-5)" font-family="Helvetica-Bold, Helvetica" font-size="3.9223" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="98.2559244" y="59.0565334">7.4</tspan>
+                                <tspan x="98.2559244" y="64.0565334">12</tspan>
+                            </text>
+                            <line x1="84.5664477" y1="60.5466606" x2="90.299955" y2="60.5466606" id="Stroke-51" stroke="#FFFFFF" stroke-width="1.961" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <line x1="98.4875313" y1="60.5466606" x2="104.221665" y2="60.5466606" id="Stroke-52" stroke="#FFFFFF" stroke-width="1.961" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-5)"></line>
+                            <polyline id="Stroke-53" stroke="#28CC8B" stroke-width="1.307" mask="url(#mask-5)" points="64.533797 30.8530404 67.1084593 30.8530404 70.6448631 34.2553134 73.4211404 30.8530404 79.0876515 37.3185455 81.518303 29.6948065 89.458306 41.184112 92.0636488 31.2745002 95.3308151 31.1945789 97.0545615 34.2553134 100.33112 29.6948065 104.221915 33.7801566 106.719563 28.1144885 110.332981 28.1144885"></polyline>
+                            <line x1="130.42524" y1="143.580518" x2="158.689547" y2="143.580518" id="Stroke-15" stroke="#575C6B" stroke-width="1.5" stroke-linecap="round"></line>
+                            <line x1="162.450983" y1="143.580518" x2="168.21204" y2="143.580518" id="Stroke-17" stroke="#575C6B" stroke-width="1.5" stroke-linecap="round"></line>
+                            <line x1="125.122638" y1="143.580518" x2="0.469412525" y2="143.580518" id="Stroke-19" stroke="#575C6B" stroke-width="1.5" stroke-linecap="round"></line>
+                        </g>
+                        <g id="Group-57" transform="translate(54.232283, 41.868764)">
+                            <mask id="mask-7" fill="white">
+                                <use xlink:href="#path-6"></use>
+                            </mask>
+                            <g id="Clip-56"></g>
+                            <polygon id="Fill-55" fill="url(#linearGradient-8)" mask="url(#mask-7)" points="0.342628421 0.382586031 0.342628421 73.0376144 90.8077859 73.0376144 109.172794 51.4844331 109.172794 0.382586031"></polygon>
+                        </g>
+                        <g id="Group-112" transform="translate(0.000000, 0.005247)">
+                            <polyline id="Fill-58" fill="#FFFFFF" points="145.412066 108.4524 60.2910516 108.4524 60.2910516 36.0037783 169.277157 36.0037783 169.277157 93.1718301"></polyline>
+                            <polyline id="Stroke-60" stroke="#575C6B" stroke-width="1.5" stroke-linecap="round" points="169.78852 108.432233 60.2908638 108.452213 60.2908638 36.003591 169.277595 36.003591 169.78852 108.432233"></polyline>
+                            <path d="M65.7414213,42.2151587 C65.7414213,41.3122982 66.4758763,40.5805192 67.3812658,40.5805192 C68.2866553,40.5805192 69.0204841,41.3122982 69.0204841,42.2151587 C69.0204841,43.1180192 68.2866553,43.8497982 67.3812658,43.8497982 C66.4758763,43.8497982 65.7414213,43.1180192 65.7414213,42.2151587" id="Fill-62" fill="#575C6B"></path>
+                            <path d="M71.6144939,42.2151587 C71.6144939,41.3122982 72.3483228,40.5805192 73.2537123,40.5805192 C74.1591018,40.5805192 74.8935567,41.3122982 74.8935567,42.2151587 C74.8935567,43.1180192 74.1591018,43.8497982 73.2537123,43.8497982 C72.3483228,43.8497982 71.6144939,43.1180192 71.6144939,42.2151587" id="Fill-64" fill="#575C6B"></path>
+                            <path d="M77.4869404,42.2151587 C77.4869404,41.3122982 78.2213954,40.5805192 79.1267849,40.5805192 C80.0321744,40.5805192 80.7660032,41.3122982 80.7660032,42.2151587 C80.7660032,43.1180192 80.0321744,43.8497982 79.1267849,43.8497982 C78.2213954,43.8497982 77.4869404,43.1180192 77.4869404,42.2151587" id="Fill-66" fill="#575C6B"></path>
+                            <path d="M162.871682,44.1761017 L86.0707342,44.1761017 C85.0751814,44.1761017 84.2680949,43.3712697 84.2680949,42.3778734 C84.2680949,41.3851015 85.0751814,40.5802694 86.0707342,40.5802694 L162.871682,40.5802694 C163.867235,40.5802694 164.674948,41.3851015 164.674948,42.3778734 C164.674948,43.3712697 163.867235,44.1761017 162.871682,44.1761017" id="Fill-68" fill="#DAE1E9"></path>
+                            <path d="M111.090916,106.104838 L68.4023648,106.104838 C67.2458956,106.104838 66.3079472,105.16951 66.3079472,104.015647 L66.3079472,57.3047921 C66.3079472,56.1509289 67.2458956,55.2156004 68.4023648,55.2156004 L111.090916,55.2156004 C112.248012,55.2156004 113.18596,56.1509289 113.18596,57.3047921 L113.18596,104.015647 C113.18596,105.16951 112.248012,106.104838 111.090916,106.104838" id="Fill-70" fill="#FFFFFF"></path>
+                            <g id="Group-75" transform="translate(72.005389, 99.901575)">
+                                <line x1="0.61743056" y1="0.909416523" x2="6.48680899" y2="0.909416523" id="Fill-72" fill="#000000"></line>
+                                <line x1="0.61743056" y1="0.909416523" x2="6.48680899" y2="0.909416523" id="Stroke-74" stroke="#FFFFFF" stroke-width="2.007" stroke-linecap="round" stroke-linejoin="round"></line>
+                            </g>
+                            <path d="M89.7467032,66.6332265 C82.7540407,66.6332265 77.0856512,72.2864069 77.0856512,79.2595368 C77.0856512,86.2320423 82.7540407,91.8845983 89.7467032,91.8845983 C96.7393657,91.8845983 102.408381,86.2320423 102.408381,79.2595368 C102.408381,72.2864069 96.7393657,66.6332265 89.7467032,66.6332265 Z" id="Stroke-76" stroke="#008DFF" stroke-width="2.676"></path>
+                            <text id="25%" font-family="Helvetica-Bold, Helvetica" font-size="4.0147" font-weight="bold" fill="#000000">
+                                <tspan x="72.9501" y="99.2167791">25</tspan>
+                                <tspan x="72.9501" y="104.216779">%</tspan>
+                            </text>
+                            <text id="Device-Type" font-family="Helvetica-Bold, Helvetica" font-size="4.0147" font-weight="bold" fill="#000000">
+                                <tspan x="71.2496457" y="62.0201136">Device </tspan>
+                                <tspan x="71.2496457" y="67.0201136" letter-spacing="-0.29668633">T</tspan>
+                                <tspan x="73.1092924" y="67.0201136">ype</tspan>
+                            </text>
+                            <text id="35%" font-family="Helvetica-Bold, Helvetica" font-size="4.0147" font-weight="bold" fill="#000000">
+                                <tspan x="87.2319619" y="99.2167791">35</tspan>
+                                <tspan x="87.2319619" y="104.216779">%</tspan>
+                            </text>
+                            <text id="70%" font-family="Helvetica-Bold, Helvetica" font-size="4.0147" font-weight="bold" fill="#000000">
+                                <tspan x="101.514387" y="99.2167791">70</tspan>
+                                <tspan x="101.514387" y="104.216779">%</tspan>
+                            </text>
+                            <g id="Group-85" transform="translate(86.406467, 99.901575)">
+                                <line x1="0.465780948" y1="0.909416523" x2="6.33453324" y2="0.909416523" id="Fill-82" fill="#000000"></line>
+                                <line x1="0.465780948" y1="0.909416523" x2="6.33453324" y2="0.909416523" id="Stroke-84" stroke="#FFFFFF" stroke-width="2.007" stroke-linecap="round" stroke-linejoin="round"></line>
+                            </g>
+                            <g id="Group-89" transform="translate(100.807545, 99.901575)">
+                                <line x1="0.313505204" y1="0.909416523" x2="6.18288363" y2="0.909416523" id="Fill-86" fill="#000000"></line>
+                                <line x1="0.313505204" y1="0.909416523" x2="6.18288363" y2="0.909416523" id="Stroke-88" stroke="#FFFFFF" stroke-width="2.007" stroke-linecap="round" stroke-linejoin="round"></line>
+                            </g>
+                            <path d="M89.7467032,66.6332265 C82.7540407,66.6332265 77.0856512,72.2864069 77.0856512,79.2595368 C77.0856512,82.3789635 78.2208318,85.2348997 80.1011117,87.4377295" id="Stroke-90" stroke="#FF8300" stroke-width="2.676"></path>
+                            <path d="M89.7467032,66.6332265 C86.1301543,66.6332265 82.8679971,68.1454866 80.5600678,70.5705973" id="Stroke-92" stroke="#28CC8B" stroke-width="2.676"></path>
+                            <path d="M163.237344,106.104838 L120.548167,106.104838 C119.391698,106.104838 118.453749,105.16951 118.453749,104.015647 L118.453749,57.3047921 C118.453749,56.1509289 119.391698,55.2156004 120.548167,55.2156004 L163.237344,55.2156004 C164.39444,55.2156004 165.331762,56.1509289 165.331762,57.3047921 L165.331762,104.015647 C165.331762,105.16951 164.39444,106.104838 163.237344,106.104838" id="Fill-94" fill="#FFFFFF"></path>
+                            <text id="Sales" font-family="Helvetica-Bold, Helvetica" font-size="4.0147" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="123.448669" y="62.0201136">Sal</tspan>
+                                <tspan x="123.448669" y="67.0201136">es</tspan>
+                            </text>
+                            <line x1="124.540584" y1="100.810991" x2="130.409336" y2="100.810991" id="Stroke-97" stroke="#FFFFFF" stroke-width="2.007" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <text id="3.512" font-family="Helvetica-Bold, Helvetica" font-size="4.0147" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="124.238036" y="99.2167791">3.5</tspan>
+                                <tspan x="124.238036" y="104.216779">12</tspan>
+                            </text>
+                            <text id="6.623" font-family="Helvetica-Bold, Helvetica" font-size="4.0147" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="138.519898" y="99.2167791">6.6</tspan>
+                                <tspan x="138.519898" y="104.216779">23</tspan>
+                            </text>
+                            <text id="7.412" font-family="Helvetica-Bold, Helvetica" font-size="4.0147" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="152.802323" y="99.2167791">7.4</tspan>
+                                <tspan x="152.802323" y="104.216779">12</tspan>
+                            </text>
+                            <line x1="138.790012" y1="100.810991" x2="144.658764" y2="100.810991" id="Stroke-102" stroke="#FFFFFF" stroke-width="2.007" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="153.038814" y1="100.810991" x2="158.908193" y2="100.810991" id="Stroke-104" stroke="#FFFFFF" stroke-width="2.007" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <g id="Clip-107"></g>
+                            <polygon id="Fill-106" fill="#28CC8B" mask="url(#mask-10)" points="123.558743 93.3823727 126.448351 93.3823727 126.448351 68.601787 123.558743 68.601787"></polygon>
+                            <polygon id="Fill-108" fill="#28CC8B" mask="url(#mask-10)" points="131.918882 93.3823727 134.80849 93.3823727 134.80849 85.591923 131.918882 85.591923"></polygon>
+                            <polygon id="Fill-109" fill="#28CC8B" mask="url(#mask-10)" points="140.279647 93.3823727 143.169255 93.3823727 143.169255 82.4325357 140.279647 82.4325357"></polygon>
+                            <polygon id="Fill-110" fill="#28CC8B" mask="url(#mask-10)" points="148.640412 93.3823727 151.53002 93.3823727 151.53002 73.8996924 148.640412 73.8996924"></polygon>
+                            <polygon id="Fill-111" fill="#28CC8B" mask="url(#mask-10)" points="157.000551 93.3823727 159.890158 93.3823727 159.890158 77.0353531 157.000551 77.0353531"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<%- include("partials/LoginH"); -%>
+
+  <div class="addreview">
+    <form action="/laddreview" method="POST" id="form">
+      <h4>Add your review</h4>
+      <input type="text" id="name" class="input-review" placeholder="name.." name="name">
+      <textarea cols="35" id="review" rows="5" class="textarea-review" placeholder="review" name="review"></textarea> <br>
+      <button class="addreview-btn" type="submit" name="button" onclick="empty()">Add</button>
+    </form>      
+  </div>
+
+  <script type="text/javascript">
+    function empty()
+    {
+      var name;
+      var review;
+      name = document.getElementById("name").value;
+      review = document.getElementById("review").value;
+      if (name == "" || review == "") 
+       { 
+          alert("Fill the all field.");
+       };
+    }
+  </script>
+
+<%- include("partials/lfooter"); -%>
